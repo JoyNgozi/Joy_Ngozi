@@ -1,12 +1,14 @@
-# I am Joy
+# I am Joy.
 
-I am a results-driven data analyst with a strong foundation in customer support and a passion for turning data into actionable business insights. With 5 years of experience in customer support, I developed expertise in managing customer relationships, resolving complex issues, and analyzing support trends to improve service delivery. My transition into data analytics was fueled by a desire to leverage data to enhance customer experiences and drive business growth.
+I am a results-oriented data analyst who has a solid background in customer service and a strong desire to transform data into useful business insights. With 5 years of experience in customer support, I developed expertise in managing customer relationships, resolving complex issues, and analyzing support trends to improve service delivery. My transition into data analytics was fueled by a desire to leverage data to enhance customer experiences and drive business growth.
 
 Core Skills:
 
-Data Analysis & Visualization: SQL, Excel, and Tableau for extracting, analyzing, and visualizing data to support strategic decision-making.
-Customer Support Analytics: Expertise in using tools like Zendesk,freshdesk, and HubSpot to analyze support tickets, measure key performance indicators (KPIs), and identify areas for process improvement.
-Problem-Solving & Communication: Adept at translating complex data findings into business-friendly narratives, bridging the gap between technical and non-technical teams.
+Data Analysis and Visualization: SQL, Excel, and Tableau are used to extract, analyze, and visualize data to help with strategic decision-making.
+
+Customer Support Analytics: Proficient in using tools such as Zendesk, Freshdesk, and HubSpot to analyze support tickets, measure key performance indicators (KPIs), and identify areas for process improvement.
+
+Problem-Solving & Communication
 
 Highlights:
 Designed and implemented a customer support dashboard that reduced ticket resolution time by 20%.
